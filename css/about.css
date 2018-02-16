@@ -1,0 +1,11 @@
+.bio-column {
+    width: 50%;
+    float: left;
+    min-height: 250px;
+    }
+    
+.alexander {
+    height: 45%;
+    width: 45%;
+    transform: rotate(90deg);
+    }

@@ -1,0 +1,19 @@
+body {
+    font-family: 'Acme', sans-serif;
+    }
+
+.contact-column {
+    width: 50%;
+    text-align: center;
+    float: left;
+    }
+    
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    }
+    
+.map-container {
+    width: 75%;
+    margin: 0 auto;
+    }
